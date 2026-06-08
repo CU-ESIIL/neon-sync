@@ -102,13 +102,13 @@ Working Phase: Preparing for Meeting 1
 ## Team Members
 
 
-| Name | Role | Institution | Expertise |
+| Name | Institution | Role | Expertise |
 | --- | --- | --- | --- |
-| Tong Qiu | PI | Duke University | community ecology, remote sensing |
-| Allen Hurlbert | Co-PI | University of North Carolina | macroecology, birds, insects |
-| Preston Pennington | Member | Washington University in St. Louis | community ecology |
-| John Grady | Co-PI | St. Mary's College of Mary | macroecology, theory, spatial diversity |
-| Dave Barnett | Member | NEON | ecology, data science |
+| Tong Qiu | Duke University | PI | community ecology, remote sensing |
+| Allen Hurlbert | University of North Carolina | Co-PI | macroecology, birds, insects |
+| Preston Pennington | Washington University in St. Louis | Member | community ecology |
+| John Grady | St. Mary's College of Mary | Co-PI | macroecology, theory, spatial diversity |
+| Dave Barnett | NEON | Member | ecology, data science |
 | Rongfei Su | Duke University | Tech lead | community ecology |
 | Phoebe Zarnetske | Michigan State University | Co-PI | community ecology, biodiversity, big data |
 | Lucas Mansfield | Michigan State University | Tech lead | community ecology, big data, computer science |
