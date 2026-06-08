@@ -1,29 +1,21 @@
 # Home
 
-## NEON-SYNC
-
 Working Group Title
 
-This working group runs as a single system: a GitHub repository where environmental data science is organized, analyzed, and versioned, and a public website where results are explained and shared with the community.
-
-As the working group progresses, the repository becomes the reproducible record of the science, and the website becomes the public report.
+This repository serves as the home base for the NEON-SYNC working group! It contains information about the project and members, alongside the code used in the project.
 
 [Edit this homepage in GitHub](https://github.com/CU-ESIIL/Working_group_OASIS/edit/main/docs/index.md){ .md-button .md-button--secondary }
 [Open the GitHub repository](https://github.com/CU-ESIIL/Working_group_OASIS){ .md-button }
 
+
+
+## Project Abstract
+
+Populations of different taxa often rise and fall together through time—a pattern called temporal synchrony—but sometimes they move in opposite directions or not at all. These rhythms can either steady ecosystems or make them more vulnerable to sudden change. Using NEON, a monitoring network which tracks many kinds of organisms across U.S. ecosystems, we will measure how strongly pairs of groups (for example, insects and the birds that eat them) move together, and how those patterns depend on species’ traits (like how fast they reproduce or what they eat) and local conditions (climate extremes, productivity, and disturbance such as fire or floods). We will generate tools that provide early warning and practical guidance for conservation—helping managers prioritize vulnerable food-web links and focus monitoring where coordinated declines are most likely under global change.
+
 ![Placeholder image for the homepage overview][slot-hero]{ .homepage-hero }
 
 --8<-- "_generated/slot_notes/hero.md"
-
-## NEON-SYNC Abstract
-
-Populations of different taxa often rise and fall together through time—a pattern called temporal synchrony—but sometimes they move in opposite directions or not at all. These rhythms can either steady ecosystems or make them more vulnerable to sudden change. Using NEON, a monitoring network which tracks many kinds of organisms across U.S. ecosystems, we will measure how strongly pairs of groups (for example, insects and the birds that eat them) move together, and how those patterns depend on species’ traits (like how fast they reproduce or what they eat) and local conditions (climate extremes, productivity, and disturbance such as fire or floods). We will generate tools that provide early warning and practical guidance for conservation—helping managers prioritize vulnerable food-web links and focus monitoring where coordinated declines are most likely under global change.
-## Start Here
-
-
-[Plan the work](work-plan.md){ .md-button }
-[Document data and resources](how-this-group-works.md#data){ .md-button .md-button--secondary }
-[Set community expectations](community-care.md){ .md-button .md-button--secondary }
 
 ## Working Group Landmarks
 
