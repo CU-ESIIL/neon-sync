@@ -1,5 +1,3 @@
-<img width="1752" height="545" alt="image" src="https://github.com/user-attachments/assets/9f96b3f5-dde9-45e8-a2d9-017bcc81efe3" /># Home
-
 This repository serves as the home base for the NEON-SYNC working group! It contains information about the project and members, alongside the code used in the project.
 
 [Edit this homepage in GitHub](https://github.com/CU-ESIIL/Working_group_OASIS/edit/main/docs/index.md){ .md-button .md-button--secondary }
