@@ -7,13 +7,6 @@ PI: Tong Qiu (Nicholas School of the Environment, Duke University)
 Co-PIs: Allen Hurlbert (University of North Carolina, Chapel Hill), John M. Grady (St. Mary’s College of Maryland), Phoebe Zarnetske (Michigan State University)
 
 
-
-This template is designed as one connected system:
-
-- The repository is where the science happens.
-- The website is where the science is shared.
-- GitHub connects them through commits, version history, and publishing.
-
 ## How this repository is organized
 
 The repository has two connected layers. Top-level files configure the project and its automation. The `docs/` folder contains the website content. `mkdocs.yml` tells MkDocs how to turn that content into the public site. Analysis folders hold the working scientific materials that generate the results shown on the website.
