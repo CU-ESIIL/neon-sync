@@ -1,4 +1,4 @@
-# Home
+<img width="1752" height="545" alt="image" src="https://github.com/user-attachments/assets/9f96b3f5-dde9-45e8-a2d9-017bcc81efe3" /># Home
 
 This repository serves as the home base for the NEON-SYNC working group! It contains information about the project and members, alongside the code used in the project.
 
@@ -103,11 +103,21 @@ Working Phase: Preparing for Meeting 1
 
 ## Team Members
 
-PI: Tong Qiu (Nicholas School of the Environment, Duke University)
 
-Co-PIs: Allen Hurlbert (University of North Carolina, Chapel Hill), John M. Grady (St. Mary’s College of Maryland), Phoebe Zarnetske (Michigan State University)
-
-| Name | Role | Institution | Responsibilities |
+| Name | Role | Institution | Expertise |
 | --- | --- | --- | --- |
-| Name | Role | Institution | Responsibilities |
-| Name | Role | Institution | Responsibilities |
+| Tong Qiu | PI | Duke University | community ecology, remote sensing |
+| Allen Hurlbert | Co-PI | University of North Carolina | macroecology, birds, insects |
+| Preston Pennington | Member | Washington University in St. Louis | community ecology |
+| John Grady | Co-PI | St. Mary's College of Mary | macroecology, theory, spatial diversity |
+| Dave Barnett | Member | NEON | ecology, data science |
+| Rongfei Su | Duke University | Tech lead | community ecology |
+| Phoebe Zarnetske | Michigan State University | Co-PI | community ecology, biodiversity, big data |
+| Lucas Mansfield | Michigan State University | Tech lead | community ecology, big data, computer science |
+| Sydne Record | University of Maine | Member | macroecology, community ecology |
+| Jean-Philippe Gibert | Duke University | Member | thermal ecology, community ecology, food webs |
+| Nosa Osawe | University of North Carolina | Member | ecology, data science |
+| Jianmin Wang | Purdue University | Member | remote sensing |
+| Kai Zhu | University of Michigan | Member | global change ecology |
+| Emiley Eloe-Fadrosh | Lawrence Berkeley National Laboratory | Member | metagenomics, microbiomes |
+
