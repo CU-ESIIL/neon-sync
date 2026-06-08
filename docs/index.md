@@ -1,6 +1,6 @@
 # Home
 
-## Working Group Title
+## NEON-SYNC
 
 Working Group Title
 
@@ -15,17 +15,11 @@ As the working group progresses, the repository becomes the reproducible record 
 
 --8<-- "_generated/slot_notes/hero.md"
 
-## Working Group Abstract
+## NEON-SYNC Abstract
 
-Add an overview of who your group is, why you have come together and what questions you are answering. This is very similar to your working group description on the esiil website.
-
+Populations of different taxa often rise and fall together through time—a pattern called temporal synchrony—but sometimes they move in opposite directions or not at all. These rhythms can either steady ecosystems or make them more vulnerable to sudden change. Using NEON, a monitoring network which tracks many kinds of organisms across U.S. ecosystems, we will measure how strongly pairs of groups (for example, insects and the birds that eat them) move together, and how those patterns depend on species’ traits (like how fast they reproduce or what they eat) and local conditions (climate extremes, productivity, and disturbance such as fire or floods). We will generate tools that provide early warning and practical guidance for conservation—helping managers prioritize vulnerable food-web links and focus monitoring where coordinated declines are most likely under global change.
 ## Start Here
 
-1. Replace the title and summary with the working group question, the community or scientific need, and the main outputs the group expects to produce.
-2. Add or link the datasets, working documents, and references your group will use.
-3. Run or adapt at least one analysis workflow and record decisions in the repository.
-4. Commit figures, tables, notes, and summaries so the work is versioned and reproducible.
-5. Use the website to share progress, methods, and results with collaborators and community audiences.
 
 [Plan the work](work-plan.md){ .md-button }
 [Document data and resources](how-this-group-works.md#data){ .md-button .md-button--secondary }
@@ -120,17 +114,11 @@ Working Phase: Preparing for Meeting 1
 
 ## Team Members
 
-Replace this table with names, roles, institutions, and responsibilities so new collaborators know who is doing what.
+PI: Tong Qiu (Nicholas School of the Environment, Duke University)
 
-Related landmark: WG-A People and roles.
-
-![Placeholder image representing collaboration and group identity][slot-group-photo]{ .section-image }
-
---8<-- "_generated/slot_notes/group-photo.md"
+Co-PIs: Allen Hurlbert (University of North Carolina, Chapel Hill), John M. Grady (St. Mary’s College of Maryland), Phoebe Zarnetske (Michigan State University)
 
 | Name | Role | Institution | Responsibilities |
 | --- | --- | --- | --- |
 | Name | Role | Institution | Responsibilities |
 | Name | Role | Institution | Responsibilities |
-
---8<-- "_generated/image_slots.md"
